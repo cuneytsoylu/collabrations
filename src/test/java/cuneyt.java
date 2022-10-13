@@ -1,2 +1,3 @@
 public class cuneyt {
+    //yazıldı
 }
